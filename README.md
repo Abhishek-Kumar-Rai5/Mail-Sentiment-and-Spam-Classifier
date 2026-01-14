@@ -113,7 +113,7 @@ Web App offers you two different language support. One is in **English** and the
 1.Fork this repository.
 
  ```console
-git clone https://github.com/MelihGulum/Sentiment-Analysis-and-Spam-Classification.git
+git clone https://github.com/Abhishek-Kumar-Rai5/Mail-Sentiment-and-Spam-Classifier.git
 ```
 
 2.Load the dependencies of the project
